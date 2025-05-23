@@ -1,0 +1,11 @@
+[Lee Jungmin] Tue May 20 13:49:17 2025 +0900 docs: 채점용 개인코드 작성 a2cc41b
+[Mungjin01] Tue May 20 13:45:08 2025 +0900 docs: analysis class diagram 작성 3ff0158
+[Mungjin01] Tue May 20 13:41:04 2025 +0900 Merge branch 'main' of https://github.com/mungjin01/software-engineering-hw2 ff8af59
+[Mungjin01] Tue May 20 13:40:59 2025 +0900 docs: communication diagram 작성 f9b35f8
+[Lee Jungmin] Mon May 19 20:26:58 2025 +0900 docs: 디스크립션 검증 관련 문구 삭제 b6a6e74
+[Lee Jungmin] Mon May 19 19:37:12 2025 +0900 docs: 디스크립션 형식 통일 b0423b7
+[Lee Jungmin] Mon May 19 16:59:37 2025 +0900 docs: use case description 액터명 제외 ac09e30
+[Mungjin01] Mon May 19 01:18:03 2025 +0900 docs: use case descriptions 작성 d297eb8
+[Mungjin01] Sun May 18 22:42:08 2025 +0900 docs: use case diagram 작성 620a660
+[Mungjin01] Sun May 18 22:37:07 2025 +0900 docs: requirement list 작성 994469e
+[Lee Jungmin] Sat May 17 22:10:46 2025 +0900 Initial commit de8e851
